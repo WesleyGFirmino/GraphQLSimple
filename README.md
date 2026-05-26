@@ -405,7 +405,7 @@ git push -u origin main
 5. Copie a URL do repositório (ex: `https://github.com/seu-usuario/graphql-products-api`).
 ### Envio pelo Relatório de Aula
  
-No relatório de aula disponível no ambiente virtual, preencha **apenas o link do repositório público no GitHub**. Não é necessário enviar arquivos compactados ou prints. Certifique-se de que o repositório está **público** para que o professor consiga acessá-lo.
+No relatório de aula disponível no ambiente virtual, preencha **apenas com o link do repositório público no GitHub**. Não é necessário enviar arquivos compactados ou prints. Certifique-se de que o repositório está **público** para que o professor consiga acessá-lo.
  
 **Checklist antes de enviar:**
 - [ ] Repositório está público no GitHub
